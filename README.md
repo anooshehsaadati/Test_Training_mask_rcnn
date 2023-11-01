@@ -1,3 +1,3 @@
-# Test Training YOLOv8
+# Test Training Mask rcnn
 
-use video and image for test correct training and tracking objects
+use video and image for test correct training complete or not
